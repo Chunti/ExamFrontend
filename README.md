@@ -27,3 +27,4 @@ Derfor skal vi angive rodfolderen for applikationen i package.json. Det gøres s
 - The same way if you want to deploy your changes in your frontend project locally to your droplet: ./deploy.sh in your terminal
 # ExamFrontend
 # ExamFrontend
+# ExamFrontend
